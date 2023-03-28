@@ -6,7 +6,7 @@ I live on Hwaseong, Korea and work at **KKEULMIT**
 
 [![](https://visitor-badge.glitch.me/badge?page_id=jhbrunokim.jhbrunokim??style=for-the-badge&logo=appveyor)](#)
   
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/#)        [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junghyun-kim-204847210)        [![](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bobhappy2000@gmail.com?subject=Hibruno)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/#](https://twitter.com/b0bhappy))        [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junghyun-kim-204847210)        [![](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bobhappy2000@gmail.com?subject=Hibruno)
 
 * * *
 
